@@ -1,0 +1,8 @@
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\test\bin\Debug\netcoreapp1.1\test.deps.json
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\test\bin\Debug\netcoreapp1.1\test.runtimeconfig.json
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\test\bin\Debug\netcoreapp1.1\test.runtimeconfig.dev.json
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\test\bin\Debug\netcoreapp1.1\test.dll
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\test\bin\Debug\netcoreapp1.1\test.pdb
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\test\obj\Debug\netcoreapp1.1\test.AssemblyInfo.cs
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\test\obj\Debug\netcoreapp1.1\test.dll
+C:\Users\Chuck Kang\Documents\Programming\CodingDojo\Microsoft\projects\test\obj\Debug\netcoreapp1.1\test.pdb
